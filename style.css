@@ -1,0 +1,19 @@
+body{
+    background-color: #00B8A9;
+}
+button{
+    position: absolute;
+    background-color: #F6416C;
+    color: #F8F3D4;
+    border: none;
+    border-radius: 6px;
+    width: 30%;
+    height: 30vh;
+    left: 35%;
+    top:35%;
+    transition: all 1s ease 0s;
+    font-size: 80px;
+}
+button:hover{
+    background-color: #FFDE7D;
+}
